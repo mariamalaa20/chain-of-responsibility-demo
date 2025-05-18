@@ -1,4 +1,4 @@
-# 🧠 Strategy Support System
+# 🧠 Chain Of Responsibility Demo
 
 A Java-based customer support system implementing the **Chain of Responsibility** design pattern to handle various support requests like billing, technical issues, and general inquiries. This project demonstrates object-oriented design and software engineering principles in action.
 
