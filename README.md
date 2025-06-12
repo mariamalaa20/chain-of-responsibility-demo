@@ -1,10 +1,10 @@
-# 🧠 Chain Of Responsibility Demo
+# Chain Of Responsibility Demo
 
 A Java-based customer support system implementing the **Chain of Responsibility** design pattern to handle various support requests like billing, technical issues, and general inquiries. This project demonstrates object-oriented design and software engineering principles in action.
 
 ---
 
-## ✨ Features
+## Features
 
 * Implements Chain of Responsibility design pattern
 * Modular handler classes for different support types
@@ -14,14 +14,14 @@ A Java-based customer support system implementing the **Chain of Responsibility*
 
 ---
 
-## 📆 Requirements
+## Requirements
 
 * Java 8 or higher
 * A Java IDE (e.g., IntelliJ, Eclipse) or terminal for compiling/running
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -39,7 +39,7 @@ java Main
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 strategy-support-system/
@@ -53,7 +53,7 @@ strategy-support-system/
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 1. Run the `Main` class.
 2. Enter a request such as:
@@ -65,12 +65,12 @@ strategy-support-system/
 
 ---
 
-## 🌱 Future Enhancements
+## Future Enhancements
 
-* 🌐 GUI-based interface using JavaFX or Swing
-* 📩 Logging system to save requests and responses
-* 🧠 Add NLP to automatically classify requests more intelligently
-* 🌍 Support for multiple languages
+* GUI-based interface using JavaFX or Swing
+* Logging system to save requests and responses
+* Add NLP to automatically classify requests more intelligently
+* Support for multiple languages
 
 ---
 
